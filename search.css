@@ -1,0 +1,21 @@
+#country{
+    display:flex;
+    flex-wrap: wrap;
+}
+#country img {
+    height: 300px;
+    width: 300px;
+}
+#country div{
+    width: 43.33%;
+    margin: 10px;
+}
+p{
+    margin-top: 15px;
+}
+#country img:hover{
+    transform: scale(1.12);
+}
+
+
+
